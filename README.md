@@ -11,9 +11,8 @@
 
 
 
+Click here to check the weather.
 
-
-click
 
 https://mayurichaudhari13.github.io/build-weather-App/
 
