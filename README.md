@@ -1,4 +1,2 @@
-# WHETHER-APP
-## Sample Image:-
-![Web capture_16-8-2022_181632_rohaantelangur github io](https://user-images.githubusercontent.com/94789421/184883254-c87f2994-644a-4439-919a-3203043d9fd7.jpeg)
-
+# weather App
+a weather application that allows users to search for weather information based on a city name or their current location. It fetches weather data from the OpenWeatherMap API and displays it, along with an embedded Google Map of the location.
