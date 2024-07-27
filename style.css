@@ -1,0 +1,88 @@
+
+
+.gmap_canvas 
+{
+overflow:hidden; 
+background:none!important;
+height:500px;
+width:600px;
+}
+#head{
+    background-color: #e4a6f5bb; 
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+}
+iframe{
+    width: 100%;
+    border-radius: 5px;
+}
+#city{
+    width: 350px;
+    border-radius: 5px;
+    height: 38px;
+    padding: 15px;  
+    font-size: 20px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9eefc;
+    border: none;
+    cursor: pointer;
+}
+.box{
+    display: flex;
+    /* margin: auto; */
+    gap: 10px;
+    background-color: #f9eefc;
+    padding: 10px;
+}
+#container{
+    width: 60%;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 5px;
+    padding: 30px;
+    color: black;
+    background-color: #f9eefc;
+    /* background-image:url("/WhetherMap/images/pexels-pixabay-268917.jpg"); */
+    /* background-size: 600px 340px; */
+    color: black;
+} 
+.whether{
+    display: flex;
+    gap: 20px;
+}
+.bottom{
+    display: flex;
+    gap: 20px;
+}
+.bottom > div{
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+   background-color: #f9eefc;
+   color: black;
+   border-radius: 5px;
+   width: 80px;
+   text-align: center;
+   padding: 0px 8px;
+}
+
+#forecast{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+#forecast>div{
+    /* color: white; */
+    color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 5px;
+    /* background-color: #303d2c; */
+    background-color: #f9eefc;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
